@@ -18,7 +18,7 @@ const Filters = {
 };
 
 const config = {
-    "minimum_members_per_server":"%MIN_MEMBERS%",
+    "minimum_members_per_server":"true",
     "logout": "instant",
     "logout-notify": "true",
     "init-notify": "true",
